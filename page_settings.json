@@ -1,0 +1,28 @@
+{
+    "main":
+    {
+        "blue": "#0069B8"
+    },
+    "A4": 
+        {
+            "width": "210",
+            "height": "297",
+            "margin-top": "15",
+            "margin-right": "15",
+            "margin-bottom": "15",
+            "margin-left": "15",
+            "header-default-size": "36",
+            "header-margin-default-size": "20",
+            "header-font-default-size": "32",
+            "header-translation-padding-default-size": "15",
+            "header-translation-default-font-size": "20",
+            "item-default-font-size": "14",
+            "item-translation-default-size": "12"
+        },
+    "A3":
+        {
+            "xxxx": "yyyyyy",
+            "vvvv": "zzzz"
+        }
+
+}
